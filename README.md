@@ -1,5 +1,8 @@
-This is fork of [EPI Judge]()
+- This is personal self learning log.
+- Forked from [EPI Judge](https://github.com/adnanaziz/EPIJudge).
 
+
+---
 # EPI Judge
 
 ## Beta 5
